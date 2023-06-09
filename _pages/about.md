@@ -16,13 +16,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+THINGS TO CHANGE BEFORE GOING LIVE
+- Polish Resume, Add New to assests/pdf/resume.pdf
+- Figure Out Blog Style
+- Figure Out Project Style (Presumably Same as Blog)
+- Figure Out Consistent Footer with Contact Me \| Resume \| LinkedIn \| Github
+
 Hi!
 
 I'm Joe McLaughlin<sup>1</sup>, a junior at Carnegie Mellon University studying Computer Science. Outside of work, I enjoy [biking](/biking/), [running](/blog/marathon/), and [listening to old person music](/music/).
 
 Some quick links if you're in a hurry:
-- [My Resume](assets/resume.pdf), for any potential employers or otherwise.
-- [CMU Course Recommendations](), for any students currently binging these.
+- [My Resume](assets/pdf/resume.pdf), for any potential employers or otherwise.
+- [CMU Course Reviews](/cmu-course-reviews/), for any students currently binging these.
 - [Cool Projects I've Worked On](/projects/) (Cool is a relative term).
 - [My Biking Blog](), for anyone who I haven't bored to death in person about biking already.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: g
+title: _pages/dropdown.md
 nav: true
 nav_order: 6
 dropdown: true
