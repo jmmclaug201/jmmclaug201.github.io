@@ -16,14 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- THINGS TO CHANGE
-- Polish Resume, Add New to assests/pdf/resume.pdf
-- Figure Out Blog Style
-- Figure Out Project Style (Presumably Same as Blog) -->
-
 Hi!
 
-I'm Joe McLaughlin<sup>1</sup>, a rising junior at Carnegie Mellon University studying Computer Science. Outside of work, I enjoy biking, running, and listening to music. <!--[biking](/biking/), [running](/blog/marathon/), and [listening to music](/music/). -->
+I'm Joe McLaughlin<sup>1</sup>, a rising junior at Carnegie Mellon University studying Computer Science. Outside of work, I enjoy biking, running, and [listening to music](thoughts/music-reviews/). <!--[biking](/biking/), [running](/blog/marathon/), and [listening to music](/music/). -->
 
 Some quick links if you're in a hurry:
 - [My Resume](assets/pdf/resume.pdf), for any potential employers or otherwise.
