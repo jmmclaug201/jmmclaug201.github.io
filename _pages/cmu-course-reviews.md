@@ -72,13 +72,13 @@ Also note this page is very much a work in progress. I'll try to eventually get 
     - **Structure:** The course mainly consists of lectures introducing some topic generally, followed by recitations that hone the topic into how we specifically need to understand it for the class. We also had weekly homeworks based on techniques we learned in recitation. 15-210 is famous for its bucket system, that homeworks are graded out of 80% instead of 100%, but I found it wasn't quite as useful as I assumed since it doesn't apply to exams, which are much more difficult than homeworks in the course (not that I'm complaining about free points). 
     - **Overall Thoughts:** I enjoyed this class much more than 15-213 last semester; I feel the algorithmic content clicks for me more than the seemingly arbitrary computer design I learned last semester. None of the homeworks were too bad, and I found some of the first few especially rewarding in finding a correct solution. My one complaint is that some of the resources we had to learn the content felt a bit disjointed, where information was presented slightly differently between lecture and recitation and the online course textbook. 
 - **05-391: Designing Human Centered Software**
-    - **Content:**
-    - **Structure:**
-    - **Overall Thoughts:**
+    - **Content:** DHCS mostly went over the same basic design and prototyping concepts I learned in the Introduction to HCI mini I took during my freshman fall.
+    - **Structure:** Lecture went over basic iteration and design concepts, though really didn't go too far in depth. The class revolved around two major group projects we did applying the principles we learned in class, along with a few much smaller homeworks to do while we weren't working on a project.
+    - **Overall Thoughts:** I remember the professor began the first day of this class asking the question "Why are you all taking this class?", and while its status as a requirement for the HCI concentration answered it for me I definitely see where she was coming from. The content really didn't go too far beyond what I had learned in my HCI mini class a year prior, and while I enjoyed the projects we did for the class I was dissapointed in not learning any major new concepts. That being said, this class works well as an easy Domains Elective for any CS Majors looking for quick requirement to get out of the way.
 - **36-218: Probability Theory for Computer Scientists**
-    - **Content:** 
-    - **Structure:** 
-    - **Overall Thoughts:** 36-218 is one of several courses CS majors can take to fulfill their probability requirement, and I kind of regret not taking [15-259]() since the latter seems to have ___. Not to say what I learned in 36-218 wasn't interesting, but I always felt like we could've done more if it wasn't for the course's poor organization.
+    - **Content:** As you'd expect from its title, this course goes over probability basics, including __.
+    - **Structure:** Like the other required math courses I've taken, 36-218 is very lecture-heavy, with most material being introduced first and foremost in lecture. We technically had remote recitation, but attendance of it dropped so low that I'm pretty sure they stopped offering it entirely by the end of the semester. The rest of the course infrastructure was very sporadic, with elements such as out of class notes only being provided a third of the time. As for graded work, the class contains several homeworks (of wildly varying difficulty, due to the course staff repeatedly overcorrecting on the difficulty of homework), and a midterm and final.
+    - **Overall Thoughts:** 36-218 is one of several courses CS majors can take to fulfill their probability requirement, and I kind of regret not taking the more difficult [Probability and Computing (15-259)](https://csd.cmu.edu/course/probability-and-computing) since the latter seems to have been a much more complete introduction to probability. Not to say what I learned in 36-218 wasn't interesting, but I always felt like we could've done more if it wasn't for the course's poor organization. That being said, I've heard the course is usally run much better than when I took it, so take my opinions with a grain of salt.
 - **80-180: Nature of Language**
     - **Content:** A basic introduction to linguistics, especially geared towards those not planning on taking another linguistics course. Went over topics such as morphology, phonology, and acoustics.
     - **Structure:** Class revolved around lecture, where Christina Bjorndahl, the professor of this particular iteration of the course, introduced different concepts in linguistics. We also has weekly recitations to reinforce what we learned in lecture, and four non-trivial homeworks mainly consisting of morphological and phonological analysis of various datasets, and making discoveries about lingusitics as a whole based on them. There was also a strong sense of class community that I really haven't experienced in any other class of that size fostered through smaller aspects of our grade like taking turns taking official class notes and a shared blog we each made posts to about some linguistics-related topics.
@@ -90,8 +90,8 @@ Also note this page is very much a work in progress. I'll try to eventually get 
 
 **Other Commitments:**
 - SI Leader for 15-122 (1st Time)
-    - 
-
+    - One of the first things that really struck me after coming to CMU was how well structured its student teaching programs were, be it through TAs for various classes or Supplemental Instruction. This semester, I got to be on the other side of these programs as a SI Leader for 15-122! SI ended up being a bit more work than expected (we had to basically create all of the handouts from scratch since the previous 15-122 instructors had a lot of factual errors on theirs), but I overall really enjoyed teaching in a smaller group setting like SI. The one downside to teaching SI was that attendance dwindled as the semester went on, to the point where we had several sessions towards the end with no students whatsoever.
+  
 **Workload:** 45 Units, light.
 
 ## Summer 2022
@@ -112,13 +112,9 @@ No classes over the summer, worked at [The Pennsylvania Governor's School for th
     - **Structure:**
     - **Overall Thoughts:** As excited as I was to take a class with Clive himself, I quickly learned that calculus is not for me. More than any other math class I've taken at CMU, I kind of just felt lost the entire time I was taking this course. I felt a bit lost whenever I was doing work for 15-259, and I never really had the 'aha!' moment I had in other classes where everything came together. I guess I only really have myself to blame, as I really didn't seek out assistance as much as I should have.
 - **76-107: Writing About Data**
-    - **Content:**
-    - **Structure:**
-    - **Overall Thoughts:**
+    - Since I wasn't able to get into the full semester First Year Writing course, I took this as my first of two minis to fulfill the requirement. I unfortunately didn't realize each section of the class was taught by a different professor and revolved around a different topic, so I ended up stuck with a class revolving around corpus linguistics, which I really didn't have an interest in. I found it difficult to motivate myself to do work in this class, and overall had a worse experience than in the second mini I took for First Year Writing. I'm sure I would've enjoyed this class much more had I been more careful in selecting my section though. 
 - **76-106: Writing About Literature**
-    - **Content:**
-    - **Structure:**
-    - **Overall Thoughts:**
+    - This was the second of two minis I used to fulill my First Year Writing Requirement. Even though I didn't realize each section of 76-106 had a different topic, I got very lucky that I happened to take a version on Graphic Novel Analysis with a teacher I really liked. I had a lot of fun reading and writing for this class, and I didn't have any trouble motiviating myself to write either of the two essays for it.
 
 **Other Commitments:**
 - Worked with the Spring Carnival Committee a little bit, but as a Freshman there was only so much I could help out with.
@@ -140,13 +136,11 @@ No classes over the summer, worked at [The Pennsylvania Governor's School for th
     - **Structure:**
     - **Overall Thoughts:**
 - **79-189: History of Democracy**
-    - **Content:**
-    - **Structure:**
-    - **Overall Thoughts:**
+    - **Content:** Goes throgh the rise and fall of 6 case-study democracies throughout history, from the Roman Republic to the more modern examples of the Republic of China and Iran. 
+    - **Structure:** Class lecture consisted of the professor going over broad concepts and events in each case study we learned about, while recitation went over ___. 
+    - **Overall Thoughts:** I really enjoyed the lecture components of this class; Professor Law is a really engaging lecturer and I found the broad topics covered genuinely interesting. I also really appreciated how approachable Professor Law was as a person, he __ and was the first professor I ever had the guts to reach out to. That being said, this was a particularly heavy humanities course for me reading-wise, I wish I could've had a course with Law wi
 - **05-120: Introduction to Human Computer Interaction**
-    - **Content:**
-    - **Structure:**
-    - **Overall Thoughts:**
+    - A mini-course available to freshmen as an introduction to the Human-Computer Interaction field and major. ___  
 - **07-131: Great Practical Ideas in Computer Science**
     - A relaxed StuCo that focuses on teaching some Software Engineering tricks of the trade, such as Vim, Git, and various bash commands. The homework isn't bad at all, just don't leaving two thirds of it until the last night you can possibly submit it (\*nervous laughter\*). The exams are also square-root curved, which takes off any pressure that was on them.
 - **07-128: Freshman Immigration Course**

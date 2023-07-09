@@ -23,10 +23,6 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-.blog-hr {
-  border-top: 2px solid rgba(0,0,0,0.2);
-}
-
 table {
   td,
   th {
@@ -999,4 +995,23 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-title);
     }
   }
+}
+
+/* !!! SELF-MADE !!! */
+.blog-hr {
+  border-top: 2px solid rgba(0,0,0,0.2);
+}
+
+.highlighter {
+  background-color: $yellow-color;
+}
+
+.album-entry {
+  display: inline-block;
+  padding-right: 10px;
+
+  /*&:hover {
+    background-color: var(--global-footer-text-color);
+    transition: all 0.2s;
+  }*/
 }
