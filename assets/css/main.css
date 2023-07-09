@@ -145,10 +145,6 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-.blog-hr {
-  border-top: 2px solid rgba(0, 0, 0, 0.2);
-}
-
 table td,
 table th {
   font-size: 1rem;
@@ -915,6 +911,24 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 .post .post-content blockquote.block-danger h1, .post .post-content blockquote.block-danger h2, .post .post-content blockquote.block-danger h3, .post .post-content blockquote.block-danger h4, .post .post-content blockquote.block-danger h5, .post .post-content blockquote.block-danger h6 {
   color: var(--global-danger-block-title);
+}
+
+/* !!! SELF-MADE !!! */
+.blog-hr {
+  border-top: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+.highlighter {
+  background-color: #efcc00;
+}
+
+.album-entry {
+  display: inline-block;
+  padding-right: 10px;
+  /*&:hover {
+    background-color: var(--global-footer-text-color);
+    transition: all 0.2s;
+  }*/
 }
 
 /*******************************************************************************
