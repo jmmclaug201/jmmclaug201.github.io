@@ -177,6 +177,9 @@ collections:
   albums:
     output: true
     permalink: /thoughts/music-reviews/:path/
+  misc:
+    output: true
+    permalink: /thoughts/misc/:path/
 
 announcements:
   enabled: false
