@@ -84,4 +84,4 @@ Although I hadn't planned it when I first set out, my detour to Pittsburgh Inter
 
 [^1]: Technically the end according to mile markers on the trail.
 [^2]: Not by the textbook definition anyways; the whole thing is incredibly flat by Pennsylvanian standards.
-[^3]: The Panhandle Trail, specifically. There's a connector trail between the two around halfway on the Montour Trail; I really want to ride the Panhandle Trail at some point as well.
+[^3]: The Panhandle Trail, specifically. There's a connector trail between the two around halfway on the Montour Trail, which is awesome in my opinion.
