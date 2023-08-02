@@ -10,8 +10,8 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-theme-color: #B71C1C;
+  --global-hover-color: #B71C1C;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
@@ -919,7 +919,7 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 
 .highlighter {
-  background-color: #efcc00;
+  background-color: #fff8cf;
 }
 
 .album-entry {
@@ -929,6 +929,17 @@ nav[data-toggle=toc] .nav-link.active:hover {
     background-color: var(--global-footer-text-color);
     transition: all 0.2s;
   }*/
+}
+
+.bike-stats {
+  padding: 10px 20px;
+  background-color: #fff8cf;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 1rem;
+}
+.bike-stats dt, .bike-stats dd, .bike-stats dl {
+  margin: 0px;
 }
 
 /*******************************************************************************
