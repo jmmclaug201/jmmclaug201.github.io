@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h1 class="post-title">{{ page.title }}</h1>
+<div class="bike-stats">
+  <dl>
+    {%- if page.date -%}
+    <dt>Date</dt>
+    <dd style="text-indent: 2rem">{{page.date | date: "%B %-d, %Y"}}</dd>
+    {%- endif -%}
+    {%- if page.distance -%}
+    <dt>Distance</dt>
+    <dd style="text-indent: 2rem">{{page.distance}}</dd>
+    {%- endif -%}
+    {%- if page.location -%}
+    <dt>Location</dt>
+    <dd style="text-indent: 2rem">{{page.location}}</dd>
+    {%- endif -%}
+    {%- if page.komoot -%}
+    <dt>Komoot</dt>
+    <dd style="text-indent: 2rem"><a href={{page.komoot}}>{{page.komoot}}</a></dd>
+    {%- endif -%}
+  </dl>
+</div>
+
+<div id="markdown-content">
+  {{ content }}
+</div>

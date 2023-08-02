@@ -180,6 +180,16 @@ collections:
   misc:
     output: true
     permalink: /thoughts/misc/:path/
+  bike-ride-reports:
+    defaults:
+      layout: post
+    output: true
+    permalink: /thoughts/biking/:path/
+  bike-other:
+    defaults:
+      layout: page
+    output: true
+    permalink: /thoughts/biking/:path/
 
 announcements:
   enabled: false

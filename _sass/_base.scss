@@ -1003,7 +1003,7 @@ nav[data-toggle="toc"] {
 }
 
 .highlighter {
-  background-color: $yellow-color;
+  background-color: $yellow-color-light;
 }
 
 .album-entry {
@@ -1014,4 +1014,15 @@ nav[data-toggle="toc"] {
     background-color: var(--global-footer-text-color);
     transition: all 0.2s;
   }*/
+}
+
+.bike-stats {
+  padding: 10px 20px;
+  background-color: $yellow-color-light;
+  dt, dd, dl {
+    margin: 0px;
+  }
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 1rem;
 }

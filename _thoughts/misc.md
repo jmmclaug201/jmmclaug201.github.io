@@ -13,9 +13,13 @@ Hopefully you enjoy, even if this page is always going to be a little disorganiz
 
 ### Posts
 <!-- Do HTML/Liquid Magic -->
-{%- assign posts = site.misc | sort: "date" -%}
+{%- assign posts = site.misc | sort: "date" | reverse -%}
 <ul>
 {%- for post in posts -%}
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a> ({{post.englishdate}})</li>
+  {%- if post.redirect -%}
+    <li><a href="{{ post.redirect | prepend: site.baseurl }}">{{post.title}}</a> ({{post.englishdate}})</li>
+  {%- else -%}
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a> ({{post.englishdate}})</li>
+  {%- endif -%}
 {%- endfor -%}
 </ul>

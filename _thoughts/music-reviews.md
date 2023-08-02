@@ -2,7 +2,7 @@
 layout: page
 title: Music Reviews
 description: A place for me to do my album reviews that isn't in front of my friends who've surely heard too many.
-order: 1
+order: 2
 ---
 
 Here, you'll find my reviews of various albums I've listened to, mostly from the 1960s and 1970s (At least eventually, as of now this very much in progress page is more of an album ranking than anything).
