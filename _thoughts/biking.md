@@ -15,7 +15,7 @@ Here, you'll find all of my posts related to biking, which I find myself doing a
 Some places I find myself coming back to whenever I need biking inspiration:
 - [Eric Zheng's Cycling Blog](https://ericzheng.org/cycling/index.html), which I often read for ride ideas and which I ~~copied~~ was heavily inspired by in creating this blog.
 - [Komoot](https://www.komoot.com/plan), my go-to ride planning site.
-- [OpenCycleMap](https://www.opencyclemap.org/), a comprehensive OpenStreetMap-based map of bike trails and routes.
+- [Waymarked Trails](https://cycling.waymarkedtrails.org/#?map=10.0/40.4344/-79.9103), a comprehensive OpenStreetMap-based map of bike trails and routes.
 - Some Youtube Channels I like for motivation:
   - [Paul Suchecki](https://www.youtube.com/@paulsuchecki3985), who I especially like for his down-to-earth style as he bikes different trails around the United States.
   - [Ryan Van Duzer](https://www.youtube.com/channel/UCVcUzl95VwxrIEQnu9xI21g), and especially his video on [different biking routes across the United States](https://www.youtube.com/watch?v=T8LB1gYzyVo).
@@ -25,12 +25,14 @@ Some places I find myself coming back to whenever I need biking inspiration:
   - [BikePGH](https://bikepgh.org/), the local cycling organization.
 
 ### Ride Reports
-Some posts I've written about rides I'm particularly fond of. All (one) of the posts has an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
+Some posts I've written about rides I'm particularly fond of. All of the posts has an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
+
+I also have a bit of a backlog of rides to write about, so bear with me as I get that done in what will hopefully be a reasonable timeframe.
 
 <!-- To Make
+  Butler-Freeport Ride
   Tri-State Century ***
   Orient Point
-  Mongo Loop
   Fake Boston Woods
   Atom Smasher
   Great Allegheny Passage ***
@@ -38,7 +40,7 @@ Some posts I've written about rides I'm particularly fond of. All (one) of the p
   East Coast Greenway
   First ride around Shelter Island-->
 
-{%- assign posts = site.bike-ride-reports | sort: "date" | reverse -%}
+{%- assign posts = site.bike-ride-reports | sort: "date" | where: "unfinished", nil | reverse -%}
 <ul>
 {%- for post in posts -%}
   {%- if post.highlight -%}
