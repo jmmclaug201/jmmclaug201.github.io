@@ -7,7 +7,11 @@ order: 1
 This page just has a list of interesting trails and bike routes I'd love to complete before I die. Some of them are more doable than others given my current situation as a college student in Pittsburgh, but hopefully I'll eventually get around to doing all of these.
 
 First, some rides that are (relatively) close to Pittsburgh and could theoretically be done before college graduation:
-- [Butler Freeport Community Trail](https://www.butlerfreeporttrail.org/) - A 20 mile trail between Butler and Freeport, PA that lies around 30 miles outside of Pittsburgh. Just slightly too far for a day trip, but I may do it as a weekend warrior kind of thing.
+- It's slowly becoming a goal of mine to visit all of the major bike trails in the Pittsburgh area before I graduate. I've been fortunate enough to ride a lot of them already, but a few I'm yet to see include:
+  - [The Westmoreland Heritage Trail](https://westmorelandheritagetrail.com/), an 18-mile trail East of Pittsburgh
+  - The West Penn Trail, a 14-miler that seems to serve as an extension to the Westmoreland Heritage Trail
+  - [The Armstrong Trail](https://armstrongtrails.org/trail-map/), a 33-mile trail through Armstrong County, though it's probably a bit far to do in a day-ride
+  - The 46-mile [Ghost Town Trail](https://en.wikipedia.org/wiki/Ghost_Town_Trail) in the far eastern reaches of what I can even begin to consider as "around Pittsburgh" 
 - I'd love to bike up Mt. Washington at some point, even with however many breaks I would need to do so.
 - I've visited [Ohiopyle](https://www.dcnr.pa.gov/StateParks/FindAPark/OhiopyleStatePark/Pages/default.aspx) before, but I would love to do an out-and-back ride where I can spend a full day hiking or rafting there.
 - A ride from Pittsburgh to Toledo, Ohio via Cleveland - Something about riding in Ohio has spoken to me for months now (I think it's that Ohio is just reachable from Pittsburgh while still being a great distance away), and a route between these two cities would be particularly easy logistically.

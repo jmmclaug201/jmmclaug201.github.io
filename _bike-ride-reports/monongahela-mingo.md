@@ -32,7 +32,7 @@ The thing that impressed me the most me about the Monongahela though were the to
       <img src="/assets/img/bike-ride-reports/monongahela-mingo/IMG_6273.jpg"
         width=200/>
       </div>
-    <div class="caption">Elizabeth and New Eagle, PA: Two highlights along the Monongahela.</div>
+    <div class="caption">Elizabeth and New Eagle, PA: Two highlights along the Monongahela</div>
 </div>
 
 After 20 or so miles along the river, I headed inland for Mingo Creek itself. The few miles between the river and the park weren't too bad, though there was a slight elevation gain towards the park from leaving the valley the river creates. The park itself was very nice, coming equipped with a small bike trail running the length of it that I used to explore it. The park was a little crowded being the Sunday before Memorial Day, though most people were just on the fields beside the mini-trail so I only had to evade a few people through the park. I also got to see the touted covered bridge, which was fun to see.

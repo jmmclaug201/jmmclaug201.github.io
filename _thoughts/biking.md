@@ -25,14 +25,12 @@ Some places I find myself coming back to whenever I need biking inspiration:
   - [BikePGH](https://bikepgh.org/), the local cycling organization.
 
 ### Ride Reports
-Some posts I've written about rides I'm particularly fond of. All of the posts has an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
+Some posts I've written about rides I'm particularly fond of. All of the posts have an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
 
 I also have a bit of a backlog of rides to write about, so bear with me as I get that done in what will hopefully be a reasonable timeframe.
 
 <!-- To Make
   Butler-Freeport Ride
-  Tri-State Century ***
-  Orient Point
   Fake Boston Woods
   Atom Smasher
   Great Allegheny Passage ***
