@@ -9,7 +9,7 @@ order: 1
 > 
 > [\- Paul Suchecki](https://www.youtube.com/@paulsuchecki3985)
 
-Here, you'll find all of my posts related to biking, which I find myself doing a lot these days. 
+Here, you'll find all of my posts related to biking, which I find myself doing a lot of these days. 
 
 ### Links
 Some places I find myself coming back to whenever I need biking inspiration:
@@ -25,18 +25,16 @@ Some places I find myself coming back to whenever I need biking inspiration:
   - [BikePGH](https://bikepgh.org/), the local cycling organization.
 
 ### Ride Reports
-Some posts I've written about rides I'm particularly fond of. All of the posts have an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
+Some posts I've written about rides I'm particularly fond of. Almost all of the posts have an associated [komoot](https://www.komoot.com/user/2743683532488) activity if you want to see the route in more detail. Any <span class="highlighter">highlighted</span> rides are personal favorites of mine.
 
 I also have a bit of a backlog of rides to write about, so bear with me as I get that done in what will hopefully be a reasonable timeframe.
 
 <!-- To Make
-  Butler-Freeport Ride
   Fake Boston Woods
   Atom Smasher
   Great Allegheny Passage ***
   Dravo Cemetery
-  East Coast Greenway
-  First ride around Shelter Island-->
+  East Coast Greenway-->
 
 {%- assign posts = site.bike-ride-reports | sort: "date" | where: "unfinished", nil | reverse -%}
 <ul>
@@ -56,8 +54,7 @@ Finally, some other biking-related posts I've written that aren't ride reports:
 
 <!-- To Make
   Ride Wishlist
-  Bikes I've Ridden
-  Riding tips (?)-->
+  Bikes I've Ridden-->
 {%- assign posts = site.bike-other | sort: "order" -%}
 <ul>
 {%- for post in posts -%}
