@@ -21,11 +21,11 @@ The latter half of my journey to Butler consisted of rolling hills through farml
 
 <div style="text-align:center">
     <div style="display:flex justify-content:center">
-      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7322.jpg"
+      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7322.JPG"
         height=200/>
-      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7330.jpg"
+      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7330.JPG"
         height=200/>
-      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7310.jpg"
+      <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7310.JPG"
         height=200/>
       </div>
     <div class="caption">Some scenic farmland photos I took on the way to Butler</div>
@@ -37,7 +37,7 @@ I made it up to Butler after around 40 miles, though I didn't actually explore t
 After taking an extended pause in Freeport to rest and get Gatorade from a gas station (which is slowly becoming a long-ride tradition of mine), I spent a few miles on a trail extending the Butler-Freeport trail along the Allegheny river before climbing a decently sized hill to reach New Kensington. 
 
 <div style="text-align:center">
-    <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7374.jpg"
+    <img src="/assets/img/bike-ride-reports/butler-freeport/IMG_7374.JPG"
       height=200/>
     <div class="caption">A cool dam I found on the way back from Freeport</div>
 </div>
